@@ -3,6 +3,7 @@
 
 
 ## Dataset
+The reason I chose this dataset was that I wanted to know whether I am capable of performing Data Analytics on any random dataset given to me. I came across this dataset on the website given below and hence I decided to complete the project on it.
 
 BigMart has collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. 
 
