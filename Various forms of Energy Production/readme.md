@@ -20,17 +20,17 @@ Data Analytics project on finding valuable insights of progess and growth of con
 
 # Notebook's info
 
-- Single energy insight.ipynb: Analyzing progress of each energy type
-- All Energy Insights.ipynb: Analyzing progress of continents/countries in all the energies combined together
+- [Single energy insight.ipynb](https://github.com/bparvatkar387/Data-Analytics/blob/master/Various%20forms%20of%20Energy%20Production/Single%20energy%20insight.ipynb): Analyzing progress of each energy type
+- [All Energy Insights.ipynb](https://github.com/bparvatkar387/Data-Analytics/blob/master/Various%20forms%20of%20Energy%20Production/All%20Energy%20Insights.ipynb): Analyzing progress of continents/countries in all the energies combined together
 
 
 # Insights
 
-- All energy insights.pdf: Important findings of how various forms of energy production has developed over the past few decades
-- Coal Energy.pdf: How coal have made progress in all continents, Asia and India
-- Hydro Energy.pdf: How hydro energy have made progress in all continents, Asia and India
-- Natural Gas Energy.pdf: Natural gas coal have made progress in all continents, Asia and India
-- Oil Energy.pdf: How Oil energy have made progress in all continents, Asia and India
+- [All energy insights.pdf](https://github.com/bparvatkar387/Data-Analytics/blob/master/Various%20forms%20of%20Energy%20Production/Final%20Findings/All%20energy%20insights.pdf): Important findings of how various forms of energy production has developed over the past few decades
+- [Coal Energy.pdf](https://github.com/bparvatkar387/Data-Analytics/blob/master/Various%20forms%20of%20Energy%20Production/Final%20Findings/Coal%20Energy.pdf): How coal have made progress in all continents, Asia and India
+- [Hydro Energy.pdf](https://github.com/bparvatkar387/Data-Analytics/blob/master/Various%20forms%20of%20Energy%20Production/Final%20Findings/Hydro%20Energy.pdf): How hydro energy have made progress in all continents, Asia and India
+- [Natural Gas Energy.pdf](https://github.com/bparvatkar387/Data-Analytics/blob/master/Various%20forms%20of%20Energy%20Production/Final%20Findings/Natural%20Gas%20Energy.pdf): Natural gas coal have made progress in all continents, Asia and India
+- [Oil Energy.pdf](https://github.com/bparvatkar387/Data-Analytics/blob/master/Various%20forms%20of%20Energy%20Production/Final%20Findings/Oil%20Energy.pdf): How Oil energy have made progress in all continents, Asia and India
 
 # Conclusion
 
